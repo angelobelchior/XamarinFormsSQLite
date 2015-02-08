@@ -10,5 +10,6 @@ Referências
 - **SQLite.Net** PCL: https://sqlitepcl.codeplex.com
 - **IDisposable**: 
 https://msdn.microsoft.com/pt-br/library/system.idisposable.dispose(v=vs.110).aspx
+- **Xamarin DependencyService**: http://developer.xamarin.com/guides/cross-platform/xamarin-forms/dependency-service/
 - **Twitter**: @angelobelchior
 - **Email**: angelobelchior@hotmail.com
