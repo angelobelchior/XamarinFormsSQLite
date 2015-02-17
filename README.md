@@ -2,6 +2,8 @@
 
 Armazene informações usado o banco de dados SQLite em suas Apps com Xamarin.Forms.
 
+Para ficar por dentro das novidades assine meu canal no Youtube: http://www.youtube.com/angelobelchior
+
 Referências
 
 - **Xamarin.Forms**: http://xamarin.com/forms
